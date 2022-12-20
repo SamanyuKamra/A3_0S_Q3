@@ -2,6 +2,7 @@
 #include <linux/unistd.h>
 #include <linux/init.h>
 #include <linux/module.h>
+#include <linux/sched.h>
 #include <linux/syscalls.h>
 
 MODULE_LICENSE("GPL");
